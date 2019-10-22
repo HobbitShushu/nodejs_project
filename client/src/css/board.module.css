@@ -1,0 +1,6 @@
+.boardDetail_wrapper{
+    display: block;
+    height:65%;
+
+    border: 2px solid red;
+}
